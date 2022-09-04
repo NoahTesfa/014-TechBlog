@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS Von_Blogger;
+
+CREATE DATABASE Von_Blogger;
